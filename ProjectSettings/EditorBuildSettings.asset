@@ -8,4 +8,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c754ac329e33f45b786f26245d39740b,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1db8564a7b802406f80fc9502296625e,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 23231e8efc9194392a36e65c32d8d4e9,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0f8bb8bd28dae4000be37dbee87a69d5,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9b9afc577930344eba8fa9b142a665f8,
+      type: 2}
